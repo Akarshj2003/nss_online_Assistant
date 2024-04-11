@@ -32,10 +32,10 @@ Gemini API (for PDF analysis)
 
 
 # Installation
-Clone the repository:
+#Clone the repository:
 git clone https://github.com/Akarshj2003/nsschat.git
-Install dependencies:
-pip install -r requirements.txt
+#Install dependencies:
+"pip install -r requirements.txt"
 
 # Configure API keys and environment variables as per the provided instructions.
 
