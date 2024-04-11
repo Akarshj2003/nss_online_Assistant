@@ -1,1 +1,1 @@
-apikey="AIzaSyD40EYM4XLwM22lPs_oD-v2MJTdg9sY8qY"
+apikey="your api key"
