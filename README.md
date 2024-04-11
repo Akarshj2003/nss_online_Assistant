@@ -31,3 +31,16 @@ Gemini AI API (for natural language processing)
 Gemini API (for PDF analysis)
 
 
+# Installation
+Clone the repository:
+git clone https://github.com/Akarshj2003/nsschat.git
+Install dependencies:
+pip install -r requirements.txt
+
+# Configure API keys and environment variables as per the provided instructions.
+
+# Contributing
+Contributions to the Safari project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit pull requests or raise issues on the GitHub repository.
+
+# Maintainer
+Akarsh j
