@@ -1,5 +1,5 @@
-# nsschat
-Safari: NSS College Chatbot
+# NSSchat
+# Safari: NSS College Chatbot
 Safari is a Python-based voice-enabled assistant designed to provide information and assistance related to NSS College of Engineering, Palakkad, Kerala. The chatbot serves as an interactive guide for students, faculty, and anyone interested in learning about various aspects of the college, including academics, campus life, placements, and general information.
 
 Features
